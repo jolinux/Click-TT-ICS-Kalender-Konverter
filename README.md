@@ -47,7 +47,7 @@ Ein zusätzlich notwendiges awk-Script ist
 daten_merge.awk
 
 *****************************************************************************************************************
-Die drei Daten sind in der Zip-Datei.
+Die drei Dateien sind in der Zip-Datei.
 
 
 Viel Spaß
