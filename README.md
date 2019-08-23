@@ -36,8 +36,8 @@ so ist der Aufruf:
 
 ./csv-ics.sh -i Vereinsspielplan_20180815134857.csv
 
-Dieses Startscript bitte aus dem Unterordner der jeweiligen Spielsaison jetzt 2019_2 aufruf.
-Dort liegt ein symbolischer Link der auf das Script zeigt. Notwendig weil unter dem Saisonordner
+Dieses Startscript bitte aus dem Unterordner der jeweiligen Spielsaison jetzt 2019_2 aufrufen.
+Dort liegt ein symbolischer Link, der auf das Script zeigt. Notwendig weil unter dem Saisonordner
 die iCal-Dateien erzeugt werden.
 
 
